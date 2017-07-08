@@ -1,4 +1,4 @@
-//<![CDATA[
+
 
   $(function () {
     var search = $(".search");
@@ -11,5 +11,3 @@
       input.focus();
     });
   });
-
-// ]]>
